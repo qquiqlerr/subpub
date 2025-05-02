@@ -1,4 +1,5 @@
-module subpub
+module github.com/qquiqlerr/subpub
+
 
 go 1.23.8
 
